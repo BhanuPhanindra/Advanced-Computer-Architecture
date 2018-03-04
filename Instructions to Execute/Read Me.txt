@@ -1,0 +1,40 @@
+MIPS Simulator using Scoreboard Algorithm
+
+Project By:
+
+Phani Teja 
+Kesha
+(KP38691)
+
+Bhanu Phanindra Gorantla
+(QJ82419)
+
+Manoj Kashyap Matukumalli
+(KW46417)
+ 
+
+Instruction to run the project
+
+1.	Download the “Run Jar Here” Folder to your PC.
+2.	open terminal in that folder.
+3.	execute “java -jar project.jar”.
+4.	Results after executing “inst.txt” will be printed in the terminal.
+5.	Results are written into “result.txt” file.
+6.	To execute different Instruction file, open “Assembly Code Samples” Folder.
+7.	copy the content of any ONE folder (“INST1/INST2/INST3/INST4/INST5) to the “Run Jar Here” folder.
+8.	Follow from Step 1.
+
+
+
+Instruction to compile and run the project from eclipse
+
+1.	Extract “MIPS.zip”.
+2.	Download & Install Eclipse.
+3.	Select “Import” & then choose “General -> Existing Projects into Workspace”.
+4.	Select the Extracted “MIPS” Folder.
+5.	Run the Project and Output will be displayed in the Eclipse Console.
+6.	To execute a different instruction set open the file “Inst.txt” in “resource” folder. 
+7.	Open “Assembly Code Samples” Folder in the “Run Jar Here” Folder that you downloaded
+8.	copy the content of “Inst.txt” in any ONE folder (“INST1/INST2/INST3/INST4/INST5) to “Inst.txt” file you opened in Eclipse.
+9.	Run the Project and Output will be displayed in the Eclipse Console.
+
